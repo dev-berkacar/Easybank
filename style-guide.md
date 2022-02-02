@@ -29,6 +29,6 @@ The designs were created to the following widths:
 - Font size: 18px
 
 ### Font
-
+https://fonts.google.com/share?selection.family=Public%20Sans:wght@300;400
 - Family: [Public Sans](https://fonts.google.com/specimen/Public+Sans)
 - Weights: 300, 400, 700
