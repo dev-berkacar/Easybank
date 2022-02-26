@@ -1,2 +1,2 @@
-# landing-page
- frontendmentor project
+# Easybank
+ Frontend Mentor Project
