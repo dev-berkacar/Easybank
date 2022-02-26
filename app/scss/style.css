@@ -76,6 +76,8 @@ html {
   font-size: 100%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 *,
@@ -93,7 +95,7 @@ body {
   font-weight: 300;
   color: #9698a6;
   line-height: 1.3;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 @media (min-width: 64em) {
