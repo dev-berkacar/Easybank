@@ -1,2 +1,2 @@
 # Easybank
- Frontend Mentor Project
+ Frontend Mentor Challange
